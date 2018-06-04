@@ -1,0 +1,4 @@
+include flasker/schema.sql
+graft flasker/static
+graft flasker/templates
+global-exclude *.pyc
